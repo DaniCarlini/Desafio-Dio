@@ -1,0 +1,6 @@
+SQL: https://app.datacamp.com/learn
+
+SQL é uma linguagem bem popular usada para executar comando em bancos de dados relacionais.
+
+Neste site encontramos diversos exemplos de comandos utilizados em SQL: https://blog.betrybe.com/sql/
+
